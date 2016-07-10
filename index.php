@@ -27,7 +27,7 @@ echo "<hr>";
 echo $str2;   // (・ω・)error
 
 $t1->newsselect(1);
-
+// ランダムな値
 $t1-> shuffleQuestion();
 
 ?>
